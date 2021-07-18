@@ -4,7 +4,7 @@ icon: flame
 order: 90
 ---
 
-Uma das características importantes desse sistema é que as punições têm o mesmo peso para qualquer jogador, seja ele novato, experiente ou veterano e para administradores / moderadores que cometam as mesmas infrações, elas são mais rígidas que a de jogadores sem algum cargo, pois a  DIVSUL reconhece que é a própria administração que deve se dar o exemplo de saber e seguir as próprias regras.
+Uma das características importantes desse sistema é que as punições têm o mesmo peso para qualquer jogador, seja ele novato, experiente ou veterano e para administradores.
 
 ## In game
 ||| LEVES
@@ -16,7 +16,6 @@ TBAN
 ||| GRAVISSIMAS
 PBAN
 |||
-
 
 
 ## Via de denúncia

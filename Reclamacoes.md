@@ -1,5 +1,5 @@
 ---
-label: Reclamações / Bans
+label: Reclamações
 icon: law
 order: 98
 ---

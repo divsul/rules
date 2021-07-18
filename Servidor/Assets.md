@@ -1,18 +1,20 @@
 ---
 label: Assets
 icon: paper-airplane
-Sort: 5
+order: 5
 ---
 
-Proibido **trancar** esquadrão de infantaria com menos de **4 membros**
+:icon-circle-slash: **Proibido trancar esquadrão de infantaria com menos de 4 membros**
 - Se considera [!badge variant="primary" text="INFRAÇÃO LEVE"]
   [!badge variant="danger" text="Evite trancar o Squad quando o servidor estiver cheio!"]
 
- Esquadrões de Asset só podem ser trancados com o número compatível de jogadores para o uso dos Assets.
+--- 
+:icon-info: **Esquadrões de Asset só podem ser trancados** com o número compatível de jogadores para o uso dos Assets.
 - Se considera [!badge variant="primary" text="INFRAÇÃO LEVE"]
 - **Esquadrões de APC** terão direito de manter um veículo como "backup" na Base Principal, por exemplo: Squad APC em um mapa com 3 APCs, poderá manter um na Base Principal e trancar o Squad com 4 players (número compatível com os 2 APCs sendo utilizados).
 
-**Proibido monotripular veículos;** não usar transporte individualmente.
+--- 
+:icon-circle-slash: **Proibido monotripular veículos; não usar transporte individualmente.**
 A não ser por um bom motivo, como por exemplo, requisitado pelo Squad Leader; e também não negar transporte quando há possibilidade de oferecer. A regra configura os seguintes veículos:
 - **Caminhão de Supply** (Logi Truck).
 - **Caminhão de Transporte** (Transp Truck).
@@ -22,13 +24,14 @@ A não ser por um bom motivo, como por exemplo, requisitado pelo Squad Leader; e
 - Se considera [!badge variant="warning" text="INFRAÇÃO LEVE"]
     - Líderes de Esquadrão que estiverem monotripulando sem um bom motivo também poderão sofrer essa punição.
 
-É proibido a **criação de esquadrões antes dos 1:30** regressivos iniciais
+--- 
+:icon-circle-slash: **É proibido a criação de esquadrões antes dos 1:30** regressivos iniciais
 - Na tracker, criação de squad em 1:31 aparecerá como “1:32”.
 [!badge variant="warning" text="INFRAÇÃO MÉDIA"]
 
+--- 
 
-
-A utilização exclusiva de alguns Assets fixos e de Assets móveis será reservada aos esquadrões criados com os respectivos “nomes” dos **TIPOS DE ASSETS** a serem utilizados, como listado abaixo:
+:icon-info: A utilização exclusiva de alguns Assets fixos e de Assets móveis será reservada aos esquadrões criados com os respectivos “nomes” dos **TIPOS DE ASSETS** a serem utilizados, como listado abaixo:
 
 - **MORTEIRO:** Esquadrão com direito de utilizar os morteiros.
 - **CAS:** Esquadrão com direito de utilizar as aeronaves de ataque.
@@ -46,20 +49,24 @@ A utilização exclusiva de alguns Assets fixos e de Assets móveis será reserv
 - Exemplos válidos: `CAS TIGO, TANK BLINDÃO, APC KKKK.`
 - Exemplos NÃO válidos: `CASTIGO,  TANKBLINDÃO, APCKKKK`
 
- Veículos **ATGM** e **AAV** **(Anti-Air Vehicles)** são de responsabilidade e podem ser distribuídos pelo squad de **CAS, TANK e APC**.
+--- 
+:icon-info:  Veículos **ATGM** e **AAV** **(Anti-Air Vehicles)** são de responsabilidade e podem ser distribuídos pelo squad de **CAS, TANK e APC**.
 - **ATGM** poderá ser permitido a utilização fora destes esquadrões, caso permitido pelo esquadrão que estaria teoricamente encarregado dele desde o início da partida.
 
- **CH-146 GRIFFON CAS**, poderá ser usado pelos esquadrões CAS e/ou TRANS, dependendo do objetivo.
+--- 
+:icon-info: **CH-146 GRIFFON CAS**, poderá ser usado pelos esquadrões CAS e/ou TRANS, dependendo do objetivo.
 - CH-146 GRIFFON CAS só poderá ser utilizado para atacar inimigos no esquadrão de **CAS.**
 
- Terá direito ao uso do “Asset” o esquadrão que for criado primeiro
+--- 
+:icon-info: **Terá direito ao uso do “Asset” o esquadrão que for criado primeiro**
 - [!badge variant="primary" text="INFRAÇÃO LEVE"] para o jogador que criou o mesmo esquadrão de Asset depois do primeiro, em caso do mesmo insistir em não abandonar o esquadrão.
 
-É proibido a **criação de esquadrão com nomes ofensivos** com intuito de provocar outra pessoa, religião ou o servidor.
+--- 
+:icon-circle-slash: **É proibido a criação de esquadrão com nomes ofensivos** com intuito de provocar outra pessoa, religião ou o servidor.
 - Se considera [!badge variant="primary" text="INFRAÇÃO LEVE"]
 
-
-Desperdício de Asset por negligência (falta de cuidado). No sentido de imperícia, ou seja, falta de habilidade ou experiência do jogador; falta de técnica e tática.
+--- 
+:icon-info: **Desperdício de Asset por negligência** (falta de cuidado). No sentido de imperícia, ou seja, falta de habilidade ou experiência do jogador; falta de técnica e tática.
 - Se considera [!badge variant="primary" text="INFRAÇÃO LEVE"]
 - **RECOMENDAÇÃO**: Antes de utilizar qualquer Asset importante pela primeira vez, por favor, treinar OFFLINE e/ou em COOP antes de ingressar no servidor. Lembrando que PR é um jogo de trabalho em equipe que requer comunicação e um pouco de experiência antes de utilizar veículos, sem exceções.
 - Essa regra existe com a intenção de apenas prevenir que **jogadores sem habilidades necessárias desperdicem "Assets" valiosos** para o time. Sabendo que para se utilizar Assets no Project Reality requer conhecimentos prévios.
@@ -73,15 +80,9 @@ Desperdício de Asset por negligência (falta de cuidado). No sentido de imperí
     - Única exceção: CH-146 GRIFFON CAS apenas quando utilizado pelo squad de CAS.
 - Serão dadas **3 chances aos jogadores punidos por negligência,** passando essas, o jogador fica proibido de usar o Asset alvo das infrações permanentemente.
 
+---
 
-  
-O Líder do Esquadrão é responsável pelos Asset de seu esquadrão, caso algum outro jogador roube ou desperdice um Asset, é obrigação do Líder do Esquadrão reportar para os administradores.
-
-O Piloto do TRANS tem total autonomia sobre seu ASSET. É ele quem decide para onde ir, onde pousar e quando pousar para deixar o Esquadrão a bordo em segurança em seu objetivo.
-- Essa liberdade ao piloto existe para preservar o Asset acima de tudo.
-
-
-**Proibido monotripular veículos que requeiram o uso do kit crewman**.
+:icon-circle-slash: **Proibido monotripular veículos que requeiram o uso do kit crewman**.
 - Se considera [!badge variant="primary" text="INFRAÇÃO LEVE"]
 - M113 ACAV no mapa Charlie's Point TAMBÉM entra aqui, por mais que não seja necessário o kit Crewman.
 - **Entra em exceção** (podem ser monotripulados):
@@ -89,6 +90,7 @@ O Piloto do TRANS tem total autonomia sobre seu ASSET. É ele quem decide para o
         - VAB VTT.
         - TPz Fuchs 1A8.
 
+---
 ## Infantaria Mecanizada  
 
  Esquadrão de INFANTARIA MECANIZADA (MEC INF):
@@ -117,6 +119,14 @@ O Piloto do TRANS tem total autonomia sobre seu ASSET. É ele quem decide para o
 - A imunidade do Asset se perde ao sair da Base Principal ou área de DOD TERRESTRE.
 - Veículos/blindados/Assets aéreos poderão ser atacados e perseguidos na volta mesmo quando estiverem entrando em área de DOD.
 - A imunidade do mesmo Asset só é restaurada quando estiver na Base Principal.
+
+---
+
+O Líder do Esquadrão é responsável pelos Asset de seu esquadrão, caso algum outro jogador roube ou desperdice um Asset, é obrigação do Líder do Esquadrão reportar para os administradores.
+
+O Piloto do TRANS tem total autonomia sobre seu ASSET. É ele quem decide para onde ir, onde pousar e quando pousar para deixar o Esquadrão a bordo em segurança em seu objetivo.
+- Essa liberdade ao piloto existe para preservar o Asset acima de tudo.
+
 
 ---
 Para fins de identificação dos assets, deverá ser analisado o ícone do veículo disponível no Menu assetlist (Disponível na barra superior do Menu Caps-Lock), (notar que esses ícones nem sempre são os mesmos do minimapa), conforme a legenda a seguir:
