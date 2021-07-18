@@ -6,16 +6,17 @@ order: 97
 
 **É proibido provocar e/ou revidar provocações, seja via chat,** ou canal de voz.
 - Se considera uma ``INFRAÇÃO LEVE``
+- No chat de voz privado do ESQUADRÃO, poderá ser feito o recrutamento.
 
 **É proibido utilizar tag de clã sem ser um membro efetivo** ou possuir autorização.
 - Se considera uma ``INFRAÇÃO MÉDIA``
-    - O player punido deverá retirar a tag antes de entrar novamente no servidor.
+- O player punido deverá retirar a tag antes de entrar novamente no servidor.
 
 **É proibido usar nicknames ou tags pejorativas**, racistas, xenofóbicos, ofensivos ou que façam alusão a outros existentes ou para mascarar seus antecedentes perante a administração.
-   - Inclui trocar o nick para quebrar regras no servidor de forma proposital.
-   - Está proibido trocar de nick caso o jogador tenha cometido alguma infração no servidor.
-        Neste caso, o pedido para mudança de nick poderá ser feito para qualquer administrador, que irá informar a modificação para o resto do núcleo.
-   - Se considera uma ``INFRAÇÃO MÉDIA``
+- Se considera uma ``INFRAÇÃO MÉDIA``
+- Inclui trocar o nick para quebrar regras no servidor de forma proposital.
+- Está proibido trocar de nick caso o jogador tenha cometido alguma infração no servidor.
+    - Neste caso, o pedido para mudança de nick poderá ser feito para qualquer administrador, que irá informar a modificação para o resto do núcleo.
 
 **Proibido utilizar nicks impronunciáveis**: ``INFRAÇÃO MÉDIA``
    - Exemplos: " .:.:. " " :::::::: " " 54321654 " " ----- ".
@@ -26,10 +27,11 @@ order: 97
    - Proibido qualquer forma de xenofobia contra jogadores. Leva em consideração principalmente as palavras:
         - “Boludo” para ofender ou designar jogadores hispânicos.
         - “Macaco/negro/negrito” para ofender ou designar players brasileiros.
+
 **É proibido realizar propaganda negativa** dentro das dependências do Servidor de Project Reality DIVSUL: ``INFRAÇÃO GRAVE``
    - Inclui proibição de convidar os jogadores para sair do servidor.
 
-**A comunicação entre jogador e admin** com o comando !r/!rp serve APENAS para informar quebra de regras.
+**A comunicação entre jogador e admin** com o comando `!r`/`!rp` serve APENAS para informar quebra de regras.
    - Para ser considerado um report válido deve apresentar NICK e MOTIVO claro! O Administrador e/ou Moderador poderá escolher em ignorar o report se não houver esse padrão.
         - **Exceção 1:** em situações em que realmente não há como informar o nick do suspeito de forma direta. Podendo realizar report de uma forma indireta, descrevendo a situação.
         - **Exceção 2:** para pedir switchs.
