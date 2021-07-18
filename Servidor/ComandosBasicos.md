@@ -14,6 +14,7 @@ order: 98
 `!shownext` – Exibir o próximo mapa
 `!fps` – Exibir o FPS da máquina do servidor
 
+--- 
 #### Extras:
 `!br` Exibe se o Battlerecorder está ativado e com qual qualidade está sendo executado.
 `!website` – Exibir o link para o site do servidor
