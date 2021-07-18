@@ -1,6 +1,10 @@
 {
   "input": ".",
   "output": ".retype",
+  "base": "/",
+  "meta": {
+    "base": "https://regras.divsul.org"
+  },
   "branding": {
     "title": "Divsul",
     "label": "Rules"
