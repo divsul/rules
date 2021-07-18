@@ -11,3 +11,7 @@ Todas as regras oficiais do Servidor DIVSUL foram organizadas nesta wiki com o o
 
 
 Encorajamos todos a fazer suas sugestões através dos canais de sugestão no discord.
+
+!!!success Atenção
+Esta wiki está em desendolvimento!
+!!!

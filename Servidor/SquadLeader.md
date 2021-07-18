@@ -1,6 +1,6 @@
 ---
 label: Squad Leaders
-icon: people
+icon: person
 order: 4
 ---
 

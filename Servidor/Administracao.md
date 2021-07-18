@@ -1,6 +1,6 @@
 ---
-label: Administração
-icon: tools
+label: Admins
+icon: people
 order: 1
 ---
 
